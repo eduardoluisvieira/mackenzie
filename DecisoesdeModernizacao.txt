@@ -1,0 +1,46 @@
+As decisões de modernização para a Indústria 4.0
+ 4.0
+A Indústria 4.0 traz uma nova forma de comportamento das pessoas pela combinação das esferas biológica, física e digital. As tecnologias habilitadoras começam a repaginar toda a cadeia produtiva com base em uma nova dinâmica de consumo. Novos desafios para a manufatura que passa a ser demandada por mais flexibilidade e customização dos produtos.
+De acordo com o IDC, uma melhor estrutura de análise de dados, beneficiada por uso dessas tecnologias impactaram em melhoria de 20% no lucro e 16% na eficiência operacional.
+A Indústria 4.0 é um processo sem volta mas isso não significa que sua adoção é rápida e fácil. A compreensão dos benefícios é relativamente clara mas inseri-la no contexto de cada indústria é o verdadeiro desafio.
+Contexto Atual
+Em um estudo realizado pelo CNI em 2018, as empresas brasileiras foram classificadas em quatro gerações, sendo:
+•	Geração 1 – produção rígida: uso de tecnologias digitais em função específica, de forma pontual (CAD);
+•	Geração 2 – produção enxuta: automação flexível ou semi-flexível com uso de tecnologias digitais sem integração ou integração parcial entre áreas (CAD-CAM);
+•	Geração 3 – produção integrada, uso de tecnologias digitais com integração e conexão em todas as funções empresariais (sistema de apoio e suporte a vendas baseado em Internet);
+•	Geração 4 – produção integrada, conectada e inteligente: uso de tecnologias digitais com retroalimentação de informações na operação e para apoiar processos de decisão (gestão de negócios com apoio de big data e inteligência artificial).
+Ainda de acordo com a pesquisa, em 2017, 75,6% das empresas estão na geração 1 e 2, 22,8% na geração 3 e apenas 1,6% das empresas estão na geração mais avançada.
+As esferas da 4.0
+A Indústria 4.0 extrapola os limites das linhas de produção e estende-se para uma integração completa da cadeia de produção – dos fornecedores até os clientes. Um ecossistema multidisciplinar que engloba as pessoas, tecnologias habilitadoras, integração e análise de dados.
+Do lado dos fornecedores, vemos diversas soluções como:
+•	Integração automática para controle de abastecimento de insumos;
+•	Planos de suporte remoto e locação de equipamentos de fabricantes de máquinas;
+•	Outsourcing para áreas de apoio como TI e TA;.
+Na outra ponta, em contato com o cliente, há soluções distintas dependendo da estrutura da cadeia em que a empresa está inserida – B2B ou B2C. Como exemplo de uma relação B2C, a cadeia com 4.0 promove alterações na cadeia. O relacionamento tradicional – Indústria-Distribuidor-Varejo-Consumidor está experimentando variantes, como Indústria-Varejo e Indústria-Consumidor.
+Diversas soluções estão apoiando essas novas formas de relacionamento:
+•	Uso de IoT em lojas, como câmeras inteligentes e diversos sensores que conseguem coletar e interpretar as preferências de consumo e extrair inúmeros indicadores que contribuem para uma produção e venda mais otimizada e direcionada a cliente.
+•	Multicanalidade – combinação de canais offline/online que preservam a experiência de consumo e também abrem novas opções de comunicação e coleta de dados que inferem no melhor entendimento do consumo.
+Voltando nossa atenção dos limite das fábricas para dentro, temos inúmeros desafios em acelerar essas possíveis integrações que acontecem com fornecedores e clientes na dinâmica de produção. E por quê?
+A massiva maioria das empresas existem antes da Indústria 4.0 e não estão preparadas para as grandes mudanças de cultura e tecnologia impostas por essa revolução.
+ Da fábrica para dentro
+O Brasil, como explicado anteriormente, tem mais de dois terços das indústrias pouco integradas, como silos de dados, papéis e planilhas fazendo a ponta entre sistemas e bastante energia usada para gerar os indicadores de controle e gestão.
+Com isso, limita-se o tempo para extrair o real valor desses indicadores e diminui significativamente a capacidade de resposta frente aos problemas. O resultado são diversos, como:
+•	gestores sobrecarregados, cobranças excessivas, sem informação consistente para apoio;
+•	gestão pressionada em reduzir as paradas de produção;
+•	alto nível desgaste nas preparações para auditorias;
+•	dificuldade na investigação de desvios de qualidade por carência de informações;
+•	falta de controle da saúde dos ativos de automação;
+•	alto risco na interrupção da continuidade do negócio por operar com sistemas obsoletos de controle.
+Migração ou Adequação
+Ao analisar os sistemas de controle das linhas produtivas para inserção na Indústria 4.0, no mínimo três cenários podem surgir:
+•	sistemas antigos e isolados que não permitem integrações;
+•	sistemas modernos que precisam de adequações para serem integradas a novas camadas;
+•	sistemas modernos com comunicação apta para as novas integrações.
+Os sistemas antigos impõe o desafio de alto custo de manutenção e imobilidade – nada pode ser feito, modernizado e opera-se com alto risco de longas paradas em caso de falha nos equipamentos. A estratégia que ganha força para trazer o tema 4.0 para a mesa está alinhada a continuidade de negócio. Essa decisão de investimento de capital para continuar operando chegará mais cedo ou mais tarde. Embora os ciclos de gestão evitem em muitos casos abordar o tema, o problema é real e iminente.
+Nesse caso  é importante trazer parceiros que tenham experiência com a tecnologia obsoleta e ajudem a traçar a estratégia de migração para sistemas modernos. Um caminho seguro das etapas de atualização deve ser apresentado e executado de maneira consistente a fim de trazer menores impactos no intervalo produtivo para a substituição.
+Para sistemas modernos, o investimento será de menor monta, com estratégia mais clara do ponto de vista tecnológico mas não necessariamente do ponto de vista do negócio. Portanto, é de extrema importância costurar muito bem a relação dor-solução-benefício para justificar as novas integrações. Podem existir sistemas modernos recentemente instalados (que ainda estão no ciclo de ROI) em que o desafio para uma nova rodada de investimento pode ser maior.
+Nessa situação, a questão não é continuidade do negócio, escassez de peças ou alto custos de manutenção mas sim o valor dos dados que esses sistemas possuem, se corretamente tratados, podem trazer.
+Além disso, cada cenário exige uma condução multidisciplinar (engenharia, manutenção, produção, qualidade, patrocinador financeiro e parceiros especializados) para tracionar as iniciativas que podem transformar um projeto piloto em roll out para aos demais sistemas.
+Muitas vezes os departamentos buscam soluções isoladas, que respondem apenas partes do problema, são redundantes ou incompatíveis e não tem probabilidade de continuidade futura. São os projetos pilotos que já nascem mortos, sem uma análise fundamentada e alinhada ao negócio, que respondem apenas a demandas temporárias.
+Orquestrar os participante do ecossistema e não perder o foco da dor a ser resolvida tem destacado as empresas que tem sucesso na transformação digital.
+
